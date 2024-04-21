@@ -9,11 +9,17 @@ The sensing subsystem consists of the following main components:
 -3 TSAL6200 Infrared Emitting Diodes
 
 -3 BPV10NF Photodiodes
+
 -3 BS170 MOSFETs
+
 -3 4.7u Capacitors
+
 -3 0.1u Capacitors
+
 -3 2k Ohm Resistors
+
 -3 10k Ohm Resistors
+
 -6 100 Ohm Resistors
 
 ## Functionalities

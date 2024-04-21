@@ -5,7 +5,9 @@ This README provides an overview of the sensing subsystem designed, its componen
 
 ## Components
 The sensing subsystem consists of the following main components:
+
 -3 TSAL6200 Infrared Emitting Diodes
+
 -3 BPV10NF Photodiodes
 -3 BS170 MOSFETs
 -3 4.7u Capacitors

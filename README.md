@@ -22,7 +22,7 @@ The sensing subsystem consists of the following main components:
 
 -6 100 Ohm Resistors
 
-## Functionalities
+## Functionalities of Components
 Infrared Emitting Diodes (TSAL6200): 
 These diodes emit infrared light. In the sensing subsystem, they would be used to emit infrared light beams towards the maze walls or obstacles.
 

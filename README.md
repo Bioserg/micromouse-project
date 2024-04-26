@@ -11,7 +11,7 @@ A STM32L476 microcontroller that has 78 output pins for the power and sensing su
 
 ### The power subsystem
 This module runs the motors and charges a battery.
-The subsystem's design files are in the branch linked: [Power-Subsystem Branch](https://github.com/Bioserg/micromouse-project/tree/Power-Subsystem)
+The subsystem's design files are in the branch linked: [Power-Subsystem Branch](https://github.com/Bioserg/micromouse-project/tree/Power-Subsytem)
 
 ### The sensing subsystem
 This module detects objects, in this case the walls of the maze.

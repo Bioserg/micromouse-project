@@ -7,7 +7,7 @@ This README provides an overview of the different modules that make up the micro
 It's the base board that all the other modules will slot onto.
 
 ### The processor
-A STM32L476 microcontroller that has 78 output pins for the power and sensing subsystem to use.
+An STM32L476 microcontroller that has 78 output pins for the power and sensing subsystem to use.
 
 ### The power subsystem
 This module runs the motors and charges a battery.

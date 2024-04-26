@@ -1,4 +1,4 @@
-# MICROMOUSE PROJECT README
+# MICROMOUSE PROJECT README FOR GROUP 53
 
 ## Overview
 This README provides an overview of the different modules that make up the micromouse: **The motherboard**, **the processor**, **the power subsystem** and **the sensing subsystem**.
